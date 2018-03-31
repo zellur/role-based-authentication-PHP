@@ -1,0 +1,9 @@
+/*pagination*/
+
+html,body{margin:0;padding:0;height:100%;/*background:#bdc3c7*/}
+.wrapper{position:relative;min-height:100%;margin:0;margin:auto}
+.wrapper header{height:100px;background:#95a5a6;overflow:hidden}
+.wrapper header h1{text-align:center;margin:10px;padding-top:10px}
+.wrapper th{text-align:center}.wrapper td{text-align:center}
+.wrapper pagination-container{display:inline-block}/*table tr:nth-child(even){background-color:#BEF2F5}.pagination li:hover{cursor:pointer}*/
+/*# sourceMappingURL=style.css.map */
